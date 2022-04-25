@@ -1,9 +1,11 @@
 👋 Hi there, I’m @andre-argolo!
 ---------------------------
 I'm a junior software developer and I'm currently learning and working with:
-  - Python
-  - Java
-  - PostgreSQL
+  > Python
+  
+  > Java
+  
+  > PostgreSQL
 
 🏠 - Brazil.
 

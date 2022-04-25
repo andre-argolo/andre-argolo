@@ -5,7 +5,7 @@ I'm a junior software developer and I'm currently learning and working with:
   - Java
   - PostgreSQL
 
-🏠 - I live in Brazil.
+🏠 - Brazil.
 
 📚 - I study of Software Analysis and Development at @UCSAL and I hold a bachelor's degree in engineering. 
 

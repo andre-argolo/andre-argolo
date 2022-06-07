@@ -1,11 +1,8 @@
 👋 Hi there, I’m @andre-argolo!
 ---------------------------
-I'm a junior software developer and I'm currently learning and working with:
-  > Python
-  
-  > Java
-  
-  > PostgreSQL
+I'm a junior software developer and I'm currently learning and working with Java, Python.
+
+I'm interested in Web development, Data engineering, and clean code!
 
 🏠 - Brazil.
 

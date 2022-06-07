@@ -2,7 +2,7 @@
 ---------------------------
 I'm a junior software developer and I'm currently learning and working with Java, Python.
 
-I'm interested in Web development, Data engineering, and clean code!
+I'm interested in web development, data engineering, and clean code!
 
 🏠 - Brazil.
 

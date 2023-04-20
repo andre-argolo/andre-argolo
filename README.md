@@ -1,6 +1,6 @@
 👋 Hi there, I’m @andre-argolo!
 ---------------------------
-I'm a junior software developer and I'm interested in web development, data engineering, automating tasks and clean code!
+I'm a junior software developer and I'm interested in software engineering, data engineering, automating tasks and clean code!
 
 🏠 - Brazil.
 
